@@ -1,3 +1,3 @@
 # KiraMayuri.io
-###FutureGadgetsLab
-Screw you, future me!
+
+The source of all my madness!
