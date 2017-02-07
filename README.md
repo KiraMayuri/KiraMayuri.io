@@ -1,3 +1,5 @@
+---
+
 # KiraMayuri.io
 
 The source of all my madness!
@@ -7,8 +9,8 @@ The source of all my madness!
 Besides spending your Shīnies on chat games you can also redeem them as LabPerks. I have added a few options, feel free to suggest more options.
 
 ### Redeem 1
-*Price: 1500 Shīnies*
 "Timeout anyone in chat for 10 minutes!" They shall know your wrath!  
+- Price: 1500 Shīnies
 
 ### Redeem 2
 "Unmod any of the channel mods for the remainder of the stream." Time to make that lazy Swordpolisher feel like a pleb again kiraW  
@@ -21,3 +23,5 @@ Besides spending your Shīnies on chat games you can also redeem them as LabPerk
 ### Redeem 4
 "Play my hero request broadcaster!" BabyRage  
 - Price: 3000 Shīnies
+
+---
