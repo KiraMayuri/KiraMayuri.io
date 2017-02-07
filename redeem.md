@@ -1,3 +1,7 @@
+---
+title: Document Center
+---
+
 #Redeem your Shīnies
 
 Besides spending your Shīnies on chat games you can also redeem them as LabPerks. I have added a few options, feel free to suggest more options.
