@@ -17,7 +17,7 @@ Besides spending your Shīnies on chat games you can also redeem them as LabPerk
 ### !redeem 4
 "Become a Swordpolisher!" WARNING! If you abuse this, I will unmod, no refunds!  
 - Price: 25000 Shīnies
-> Only 10 left!
+*Only 10 left!*
 
 
 
