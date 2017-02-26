@@ -35,9 +35,11 @@ My setup is a nerdy blend of savy tech and software solutions to common issues I
 
 > Gigabyte GeForce GTX 970 G1 GPU
 
-> HyperX 16GB RAM Memory
+> HyperX 16GB DDR3 1600MHz RAM
 
-> 256GB Samsung SSD Storage
+> 256GB Samsung SSD
+
+> 1TB Verbatim External USB 3.0
 
 > 6TB LVM HDD / 4 physical drives (Debian Server Jessie VM)*
 
