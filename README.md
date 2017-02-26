@@ -4,7 +4,7 @@
 
 The source of all my madness!
 
-## LabPerks - Redeem your Shīnies
+# LabPerks - Redeem your Shīnies
 
 Besides spending your Shīnies on chat games you can also redeem them as LabPerks. I have added a few options, feel free to suggest more options.
 
@@ -27,11 +27,12 @@ Besides spending your Shīnies on chat games you can also redeem them as LabPerk
 - Only 10 left!
 
 
-## Setup
+
+# Setup
 
 My setup is a nerdy blend of savy tech and software solutions to common issues I encountered (and noticed others having) while streaming.
 
-###Computer
+### Computer
 - Silent Base 800 Case
 - Asus Maximus VII Ranger Motherboard
 - Intel Core i7-4770k 3.50GHz CPU
@@ -40,7 +41,7 @@ My setup is a nerdy blend of savy tech and software solutions to common issues I
 - 256GB Samsung SSD Storage
 - 6TB LVM HDD split in 4 physical drives debian VM Storage
 
-###Audio
+### Audio
 - Blue Yeti Pro Microphone
 - Logitech G930 Headphones
 - Bose Companion 3 Series II Multimedia Speakers
@@ -49,18 +50,18 @@ My setup is a nerdy blend of savy tech and software solutions to common issues I
 
 *Drivers failing while using external soundcard, to avoid issues while streaming I opted away from using studio speakers/soundcard.
 
-###Video
+### Video
 - Samsung SyncMater SA350 - LED 27" Main Screen  
 - Samsung LCD 47"
 - Some old 17" LCD screen
 - Ipad 1 hooked up with Twomon app
 
-###Peripherals
+### Peripherals
 - Razer BlackWidow Ultimate Keyboard
 - Razer Black Momba Mouse
 - PS3 SIXAXIS via Bluethooth Controller
 
-###Software
+### Software
 - Windows 10 OS
 - FL Studio + i-Zotope Nectar 2 (Software Compression, EQ, Limiter)
 
