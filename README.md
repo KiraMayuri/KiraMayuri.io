@@ -25,14 +25,16 @@ Besides spending your Shīnies on chat games you can also redeem them as LabPerk
 
 My setup is a nerdy blend of savy tech and software solutions to common issues I encountered (and noticed others having) while streaming.
 
-### Computer
+### Build
 > Silent Base 800 Case
 > Asus Maximus VII Ranger Motherboard
 > Intel Core i7-4770k 3.50GHz CPU
 > Gigabyte GeForce GTX 970 G1 GPU
 > HyperX 16GB RAM Memory
 > 256GB Samsung SSD Storage
-> 6TB LVM HDD split in 4 physical drives debian VM Storage
+> 6TB LVM HDD / 4 physical drives (Debian Server Jessie VM)*
+
+*Virtual machine managing & sharing hard drives through NFS*
 
 ### Audio
 > Blue Yeti Pro Microphone
@@ -44,17 +46,22 @@ My setup is a nerdy blend of savy tech and software solutions to common issues I
 *Drivers failing while using external soundcard, to avoid issues while streaming I opted away from using studio speakers/soundcard.*
 
 ### Video
-- Samsung SyncMater SA350 - LED 27" Main Screen  
-- Samsung LCD 47"
-- Some old 17" LCD screen
-- Ipad 1 hooked up with Twomon app
+> Samsung SyncMater SA350 - LED 27" Main Screen  
+> Samsung LCD 47"
+> Some old 17" LCD screen (monitor OBS)
+> Ipad (monitor chat)
 
 ### Peripherals
-- Razer BlackWidow Ultimate Keyboard
-- Razer Black Momba Mouse
-- PS3 SIXAXIS via Bluethooth Controller
+> Razer BlackWidow Ultimate Keyboard
+> Razer Black Momba Mouse
+> PS3 SIXAXIS via Bluethooth Controller
 
 ### Software
-- Windows 10 OS
-- FL Studio + i-Zotope Nectar 2 (Software Compression, EQ, Limiter)
-
+> Windows 10 (Operating System)
+> OBS Studio (Streaming Software)
+> FL Studio + i-Zotope Nectar 2 (EQ, Compression, Limiter)
+> Voicemeeter + VB Cable (Audio Routing with ASIO)
+> Degarth's Ducker (Audio Ducker)
+> DeepBot Twitch Stream Assistant (Channel bot, currency & games)
+> SCP Toolkit (PS controller mapper)
+> Twomon app (iPad Screen handler)
