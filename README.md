@@ -2,8 +2,8 @@
 
 Besides spending your Shīnies on chat games you can also redeem them as LabPerks. I have added a few options, feel free to suggest more options.
 
-| cmd | # | LabPerk | Shīnies |
-| ------- | --- |------- | ------: |
+| Command | # | LabPerk | Shīnies |
+| ------- | :--- |------- | ------: |
 | !redeem | 1 | "Timeout anyone in chat for 10 minutes!"  | 1 500 |
 | !redeem | 2 | "Play my hero request broadcaster!"  | 3 000 |
 | !redeem | 3 | "Unmod any of the channel mods for the remainder of the stream." | 5 000 |
