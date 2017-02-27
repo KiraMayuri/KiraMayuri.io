@@ -11,6 +11,8 @@ Besides spending your Shīnies on chat games you can also redeem them as LabPerk
 
 \* *Only 10 left!*
 
+---
+
 # Setup
 
 My setup is a nerdy blend of savy tech and software solutions to common issues I encountered (and noticed others having) while streaming.
