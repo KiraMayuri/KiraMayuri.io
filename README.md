@@ -19,7 +19,7 @@ I route my microphone through a DAW, where I do a high pass EQ setting, as well 
 
 After some trail I have come to use my GPU to encode my stream before broadcasting (NVENC H.264). This has lowered my CPU load by approx 25% compared to using x264.
 
-##### OBS Settings:
+#### OBS Settings
 ![OBS Settings 1](https://i.gyazo.com/a6fd9ef5a2899686abe082d28393cdd9.png)
 
 ![OBS Settings 2](https://i.gyazo.com/782779539ca662650bd29f82c6cdce34.png)
