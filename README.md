@@ -26,6 +26,7 @@ After some trail I have come to use my GPU to encode my stream before broadcasti
 
 ![OBS Settings 2](https://i.gyazo.com/782779539ca662650bd29f82c6cdce34.png)
 
+---
 
 ### Build
 > Silent Base 800 Case
