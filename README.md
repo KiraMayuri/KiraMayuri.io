@@ -29,6 +29,7 @@ After some trail I have come to use my GPU to encode my stream before broadcasti
 
 ---
 
+## Hardware
 ### Build
 > Silent Base 800 Case
 >
@@ -73,14 +74,14 @@ After some trail I have come to use my GPU to encode my stream before broadcasti
 >
 > DX Racer RACING Black Gaming Chair
 
-### Software
+## Software
 > Windows 10 (Operating System)
 >
 > OBS Studio (Streaming Software)
 >
 > FL Studio DAW + i-Zotope Nectar 2 VST (Noise Gate, EQ, Compression, Limiter)
 >
-> Voicemeeter + VB Cable (Audio Routing with ASIO)
+> Voicemeeter + VB Cable (Internal Audio Routing)
 >
 > Degarth's Ducker (Audio Ducker)
 >
