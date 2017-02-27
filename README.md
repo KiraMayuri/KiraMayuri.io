@@ -15,13 +15,14 @@ Besides spending your Shīnies on chat games you can also redeem them as LabPerk
 
 My setup is a nerdy blend of savy tech and software solutions to common issues I encountered (and noticed others having) while streaming.
 
-I route my microphone through a DAW, where I do a high pass EQ setting, Noise Gating, De-Essing, Compressing, and on output I gain and set a volume ceiling. Since ASIO takes over the soudsource using any software to process sound demands that you have internal routing of sound source. I use Voicemeeter and VB cable to do this, after routing the sound, OBS can now stream the processed sound.
+I route my microphone through a DAW, where I do a high pass EQ setting, as well as Noise Gating, De-Essing, and Compressing. When outputing I gain and set a volume ceiling. Since ASIO takes over the soudsource, using any software to process sound demands that you do some internal sound routing to make the processed sound available for OBS to stream, I use Voicemeeter and VB cable to accomplish this.
 
-After some trail I have come to use my GPU to encode my stream before broadcasting. This has spared my CPU load approx 25%. If you don't have GPU to spare, I suggest sticking with x264 encoding.
+After some trail I have come to use my GPU to encode my stream before broadcasting (NVENC H.264). This has lowered my CPU load by approx 25% compared to using x264.
 
 ![OBS Settings 1](https://i.gyazo.com/a6fd9ef5a2899686abe082d28393cdd9.png)
-
+Format: ![OBS Settings]
 ![OBS Settings 2](https://i.gyazo.com/782779539ca662650bd29f82c6cdce34.png)
+Format: ![OBS Settings]
 
 ### Build
 > Silent Base 800 Case
