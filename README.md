@@ -15,6 +15,14 @@ Besides spending your Shīnies on chat games you can also redeem them as LabPerk
 
 My setup is a nerdy blend of savy tech and software solutions to common issues I encountered (and noticed others having) while streaming.
 
+I route my microphone through a DAW, where I do a high pass EQ setting, Noise Gating, De-Essing, Compressing, and on output I gain and set a volume ceiling. Since ASIO takes over the soudsource using any software to process sound demands that you have internal routing of sound source. I use Voicemeeter and VB cable to do this, after routing the sound, OBS can now stream the processed sound.
+
+After some trail I have come to use my GPU to encode my stream before broadcasting. This has spared my CPU load approx 25%. If you don't have GPU to spare, I suggest sticking with x264 encoding.
+
+![OBS Settings 1](https://i.gyazo.com/a6fd9ef5a2899686abe082d28393cdd9.png)
+
+![OBS Settings 2](https://i.gyazo.com/782779539ca662650bd29f82c6cdce34.png)
+
 ### Build
 > Silent Base 800 Case
 >
@@ -34,19 +42,6 @@ My setup is a nerdy blend of savy tech and software solutions to common issues I
 
 \* *Virtual machine managing & sharing hard drives through NFS*
 
-### Audio
-> Blue Yeti Pro Microphone
->
-> Logitech G930 Headphones
->
-> Bose Companion 3 Series II Multimedia Speakers
->
-> 2x KRK Rokit 6 Studio Monitors*
->
-> M-Audio Fast Track C400 Studio Soundcard*
-
-\* *Drivers failing while using external soundcard, to avoid issues while streaming I opted away from using studio speakers/soundcard.*
-
 ### Video
 > Samsung SyncMater SA350 - LED 27" Main Screen
 >
@@ -55,6 +50,13 @@ My setup is a nerdy blend of savy tech and software solutions to common issues I
 > Some old 17" LCD screen (monitor OBS)
 >
 > Ipad (monitor chat)
+
+### Audio
+> Blue Yeti Pro Microphone
+>
+> Logitech G930 Headphones
+>
+> Bose Companion 3 Series II Multimedia Speakers
 
 ### Peripherals
 > Razer BlackWidow Ultimate Keyboard
@@ -68,7 +70,7 @@ My setup is a nerdy blend of savy tech and software solutions to common issues I
 >
 > OBS Studio (Streaming Software)
 >
-> FL Studio + i-Zotope Nectar 2 (EQ, Compression, Limiter)
+> FL Studio DAW + i-Zotope Nectar 2 VST (Noise Gate, EQ, Compression, Limiter)
 >
 > Voicemeeter + VB Cable (Audio Routing with ASIO)
 >
