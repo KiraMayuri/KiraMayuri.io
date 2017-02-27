@@ -1,4 +1,5 @@
 # LabPerks
+---
 
 Besides spending your Shīnies on chat games you can also redeem them as LabPerks. I have added a few options, feel free to suggest more options.
 
@@ -11,9 +12,8 @@ Besides spending your Shīnies on chat games you can also redeem them as LabPerk
 
 \* *Only 10 left!*
 
----
-
 # Setup
+---
 
 My setup is a nerdy blend of savy tech and software solutions to common issues I encountered (and noticed others having) while streaming.
 
@@ -27,9 +27,10 @@ After some trail I have come to use my GPU to encode my stream before broadcasti
 
 ![OBS Settings 2](https://i.gyazo.com/782779539ca662650bd29f82c6cdce34.png)
 
----
 
 ## Hardware
+---
+
 ### Build
 > Silent Base 800 Case
 >
@@ -75,6 +76,8 @@ After some trail I have come to use my GPU to encode my stream before broadcasti
 > DX Racer RACING Black Gaming Chair
 
 ## Software
+---
+
 > Windows 10 (Operating System)
 >
 > OBS Studio (Streaming Software)
