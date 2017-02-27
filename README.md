@@ -12,6 +12,9 @@ Besides spending your Shīnies on chat games you can also redeem them as LabPerk
 
 \* *Only 10 left!*
 
+<br  />
+<br  />
+
 # Setup
 ---
 
@@ -74,6 +77,8 @@ After some trail I have come to use my GPU to encode my stream before broadcasti
 > PS3 SIXAXIS via Bluethooth Controller
 >
 > DX Racer RACING Black Gaming Chair
+
+<br  />
 
 ## Software
 ---
